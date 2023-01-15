@@ -5,7 +5,7 @@ IP information gathering tool
 
 Alat ini digunakan untuk melacak IP address publik versi 4 maupun 6
 
-# Diuji
+# Tested on
 Termux
 
 # Instalasi
@@ -25,3 +25,8 @@ python ipinfog4.py
 
 # Notes
 Alat ini tersedia secara open source (maksudnya semua orang bebas memakai/menambahkan/mengganti Code didalamnya
+
+# Sosial media
+Youtube: https://www.youtube.com/channel/UClmYoigqOvd7V8a3u-fbwiQ
+
+Instagram: https://instagram.com/bec.cybersec?igshid=YmMyMTA2M2Y=
