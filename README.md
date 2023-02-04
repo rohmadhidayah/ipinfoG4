@@ -1,7 +1,5 @@
 # ipinfoG4
-IP information gathering tool
-
-Alat ini digunakan untuk melacak IP address publik versi 4 maupun 6
+ipinfoG4 digunakan untuk melacak IP address publik perangkat/website versi 4 maupun 6
 
 # Tested on
 • Termux
